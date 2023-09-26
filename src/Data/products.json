@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 10,
+      "units": 50
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "price": 20,
+      "units": 40
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "price": 30,
+      "units": 30
+    },
+    {
+      "id": 4,
+      "name": "Grapes",
+      "price": 15,
+      "units": 60
+    },
+    {
+      "id": 5,
+      "name": "Strawberry",
+      "price": 25,
+      "units": 25
+    },
+    {
+      "id": 6,
+      "name": "Watermelon",
+      "price": 12,
+      "units": 35
+    },
+    {
+      "id": 7,
+      "name": "Mango",
+      "price": 18,
+      "units": 45
+    },
+    {
+      "id": 8,
+      "name": "Pineapple",
+      "price": 22,
+      "units": 28
+    },
+    {
+      "id": 9,
+      "name": "Kiwi",
+      "price": 27,
+      "units": 22
+    },
+    {
+      "id": 10,
+      "name": "Peach",
+      "price": 8,
+      "units": 65
+    },
+    {
+      "id": 11,
+      "name": "Cherry",
+      "price": 8,
+      "units": 65
+    }
+  ]
+  
